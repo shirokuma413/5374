@@ -1,7 +1,5 @@
 label,sublabel,description,styles,bgcolor
+燃やさないごみ,,,img/moyasanai02.svg,#733b96
+資源,,,img/shigen02.svg,#77ae1f
 燃やすごみ,,,img/moyasu02.svg,#ea3b13
-缶・びん・ペットボトル,,,img/bin02.svg,#2dc7aa
-プラスチック製容器包装,,,img/bin02.svg,#f0f8ff
-古布,,,img/bin02.svg,#ffa500
-古紙,,,img/bin02.svg,#f5fffa
-粗大ごみ,,,img/bin02.svg,#8b4513
+びん,,,img/bin02.svg,#2dc7aa
